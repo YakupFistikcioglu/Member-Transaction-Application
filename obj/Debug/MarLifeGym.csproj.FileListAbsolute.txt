@@ -1,0 +1,12 @@
+C:\Users\yakup\source\repos\MarLifeGym\MarLifeGym\bin\Debug\MarLifeGym.exe.config
+C:\Users\yakup\source\repos\MarLifeGym\MarLifeGym\bin\Debug\MarLifeGym.exe
+C:\Users\yakup\source\repos\MarLifeGym\MarLifeGym\bin\Debug\MarLifeGym.pdb
+C:\Users\yakup\source\repos\MarLifeGym\MarLifeGym\obj\Debug\MarLifeGym.csprojAssemblyReference.cache
+C:\Users\yakup\source\repos\MarLifeGym\MarLifeGym\obj\Debug\MarLifeGym.Form1.resources
+C:\Users\yakup\source\repos\MarLifeGym\MarLifeGym\obj\Debug\MarLifeGym.Form2.resources
+C:\Users\yakup\source\repos\MarLifeGym\MarLifeGym\obj\Debug\MarLifeGym.Properties.Resources.resources
+C:\Users\yakup\source\repos\MarLifeGym\MarLifeGym\obj\Debug\MarLifeGym.csproj.GenerateResource.cache
+C:\Users\yakup\source\repos\MarLifeGym\MarLifeGym\obj\Debug\MarLifeGym.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\MarLifeGym\MarLifeGym\obj\Debug\MarLifeGym.exe
+C:\Users\yakup\source\repos\MarLifeGym\MarLifeGym\obj\Debug\MarLifeGym.pdb
+C:\Users\yakup\source\repos\MarLifeGym\MarLifeGym\obj\Debug\MarLifeGym.Form3.resources
